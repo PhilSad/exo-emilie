@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "title": "AlbumPhotosVacances",
+      "data": [
+        {
+          "lieu": "Paris",
+          "date": "2022-07-14"
+        },
+        {
+          "lieu": "Lyon",
+          "date": "2022-07-16"
+        }
+      ]
+    },
+    {
+      "title": "ListeCoursesSemaine",
+      "data": [
+        {
+          "article": "Pommes",
+          "quantite": "5"
+        },
+        {
+          "article": "Lait",
+          "quantite": "2 litres"
+        }
+      ]
+    },
+    {
+      "title": "ProjetsTravail",
+      "data": [
+        {
+          "nomProjet": "Développement Web",
+          "deadline": "2023-03-01"
+        },
+        {
+          "nomProjet": "Campagne Marketing",
+          "deadline": "2023-04-15"
+        }
+      ]
+    }
+  ]
+}
